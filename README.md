@@ -1,7 +1,5 @@
 MediTest
 
-Wenn Chuck Norris parkt muss die Parkuhr bezahlen.
-
 
 
 Steht ein Baum allein im Wald... oder Zwei Stifte gehen in den Wald. Kommt ein anderer dazu. Sagt der eine zum anderen: „Ich geh jetzt. Mir wird es zu bunt" 
